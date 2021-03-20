@@ -19,7 +19,7 @@ ipykernel @ file:///C:/ci/ipykernel_1596208728219/work/dist/ipykernel-5.3.4-py3-
 ipython @ file:///C:/ci/ipython_1596868620883/work
 ipython-genutils==0.2.0
 jedi @ file:///C:/ci/jedi_1596472767194/work
-Jinja2==2.11.2
+Jinja2==2.11.3
 joblib @ file:///tmp/build/80754af9/joblib_1594236160679/work
 json5==0.9.5
 jsonschema @ file:///C:/ci/jsonschema_1594363671836/work
