@@ -44,7 +44,7 @@ pandas @ file:///C:/ci/pandas_1596824386248/work
 pandocfilters==1.4.2
 parso==0.7.0
 pickleshare @ file:///C:/ci/pickleshare_1594374056827/work
-Pillow==7.2.0
+Pillow==9.0.0
 prometheus-client==0.8.0
 prompt-toolkit==3.0.5
 pycparser @ file:///tmp/build/80754af9/pycparser_1594388511720/work
